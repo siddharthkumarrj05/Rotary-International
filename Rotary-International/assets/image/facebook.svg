@@ -1,0 +1,15 @@
+<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="13" height="13" fill="#F5F5F5"/>
+<g id="Homepage">
+<rect width="1920" height="6275" transform="translate(-1509 -18)" fill="white"/>
+<g id="Layer_1" clip-path="url(#clip0_0_1)">
+<path id="Vector" d="M9.24401 4.97627H7.49833V3.83136C7.49833 3.40139 7.7833 3.30114 7.98401 3.30114C8.18427 3.30114 9.21592 3.30114 9.21592 3.30114V1.41092L7.51933 1.4043C5.63596 1.4043 5.20736 2.81409 5.20736 3.71627V4.97627H4.11816V6.92403H5.20736C5.20736 9.42371 5.20736 12.4356 5.20736 12.4356H7.49833C7.49833 12.4356 7.49833 9.39402 7.49833 6.92403H9.04421L9.24401 4.97627Z" fill="#0133A3"/>
+</g>
+<circle id="Ellipse 20" cx="6.48485" cy="6.48485" r="12.9848" stroke="#0133A3"/>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="12.9455" height="12.9455" fill="white" transform="translate(0.012207 0.012207)"/>
+</clipPath>
+</defs>
+</svg>

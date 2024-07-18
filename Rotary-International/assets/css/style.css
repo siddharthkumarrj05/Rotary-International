@@ -1,0 +1,1702 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+}
+a {
+  text-decoration: none !important;
+}
+p {
+  margin: 0px !important;
+}
+.email a,
+.phone a {
+  color: #262626;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+.social-icon a span i {
+  padding: 10px 10px;
+  border: 1px solid #0133a3;
+  border-radius: 50%;
+  margin-right: 10px;
+  color: #0133a3;
+}
+.top-rotary-nav {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+.top-rotary-nav a {
+  color: #333;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+}
+.top-awards-img {
+  margin-top: 20px !important;
+}
+.top-awards-img img {
+  width: 50%;
+}
+.col-lg-8.social-icon {
+  display: flex;
+  justify-content: end;
+}
+.row.navbar {
+  padding-top: 14px;
+}
+
+.sCjqHl,
+.sekuaY {
+  position: relative;
+  color: #323232;
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: flex;
+  justify-content: center;
+}
+@keyframes draw {
+  from {
+    stroke-dashoffset: 558.35;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.animated-path {
+  animation: draw 2s ease-in-out forwards;
+}
+.s_YoR6,
+.s_YoR6-over,
+.s_YoR6-ser {
+  position: absolute;
+  z-index: 0;
+}
+.s_YoR6-ser {
+  top: -35px;
+  left: -15px;
+  width: 200px;
+  height: 100px;
+}
+.REGISTER {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Conference {
+  margin-top: 10rem;
+}
+.footer-questions {
+  background-image: url("../image/footer-circle-braw.png");
+  padding: 120px;
+  background-size: cover;
+  margin-bottom: -276px;
+  position: absolute;
+  z-index: 1;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  width: 91% !important;
+  float: left;
+}
+.footer-questions h2 {
+  color: #323232;
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.footer-questions span {
+  color: #8f117f;
+}
+.footer-questions span a {
+  color: #323232;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+  border-radius: 150px;
+  background: #f9cc01;
+  padding: 10px 15px;
+  margin-left: 15rem;
+}
+
+footer {
+    background-image: url("../image/footer-img.png");
+    padding-top: 11rem;
+    margin-top: 16rem;
+    background-size: cover;
+}
+
+.Conference h2 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+}
+.footer-social-icon span i {
+  padding: 10px 10px;
+  border: 1px solid #ffffff;
+  border-radius: 50%;
+  margin-right: 10px;
+  color: #fff;
+}
+
+.footer-social-icon {
+  display: flex;
+  justify-content: center;
+}
+.footer-About {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 34px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.footer-About a {
+  color: #fff;
+  text-decoration: none;
+}
+hr {
+  color: #fff !important;
+  margin-top: 30px !important;
+  margin-bottom: 30px !important;
+}
+
+.hero-sec {
+  background-image: url(../image/banner.png);
+  padding-top: 5rem;
+  padding-bottom: 17rem;
+  background-size: cover;
+}
+.hero-heading h1 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-align: center;
+}
+.hero-heading h3 {
+  color: #fff;
+  font-family: Raleway;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+}
+.hero-para p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  padding: 5px 0px;
+  text-align: center;
+  border-radius: 500px;
+  background: #0133a3;
+  width: 42%;
+}
+.hero-para {
+  display: flex;
+  justify-content: center;
+}
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+  margin: 0 5rem !important;
+}
+.view-all-slid-bnnr a {
+  color: #323232;
+  font-family: Poppins;
+  font-size: 16px;
+  text-decoration: none;
+  border-radius: 3px;
+  border: 1px solid #e8e8e8;
+  background: #fff;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 10px 15px;
+  position: absolute;
+  z-index: 1;
+}
+.item {
+  display: flex;
+  justify-content: center;
+}
+.owl-carousel .owl-stage {
+  padding: 20px 0px;
+  padding-left: 0px;
+}
+.view-all-slid-bnnr {
+  display: flex;
+  justify-content: center;
+  margin-top: -41px;
+}
+.owl-theme .owl-nav {
+  margin-top: 40px !important;
+  text-align: center;
+  -webkit-tap-highlight-color: transparent;
+}
+.Community-sec {
+  margin-top: 70px;
+}
+.Community h2 {
+  color: #333;
+  font-family: Raleway;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+}
+.Community span {
+  color: #0133a3;
+}
+.card p {
+  color: #323232;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.card span i {
+  margin-right: 10px;
+  color: #797979;
+}
+.card h3 {
+  color: #333;
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 20px;
+}
+.card h4 {
+  color: #797979;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.card p {
+  color: #797979;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.card {
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.15);
+  padding-bottom: 20px;
+  border: none !important;
+}
+
+.Voluntary-sec {
+  background-image: url("../image/Voluntary-img.png");
+  background-size: cover;
+  margin-top: 70px;
+}
+.Voluntary {
+  text-align: center;
+  padding: 50px 0px;
+}
+.Voluntary h2 {
+  color: #fff;
+  font-family: Raleway;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+}
+.Voluntary p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+  padding: 20px 0px;
+}
+.Voluntary a {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 24px;
+  text-decoration: none;
+  border-radius: 150px;
+  background: #0133a3;
+  padding: 10px 25px;
+  text-align: center;
+  display: inline-block;
+}
+.Welcome-Awards-sec {
+  margin-top: 70px;
+}
+.Welcome-Awards-head h2 {
+  color: #333;
+  font-family: Raleway;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300 !important;
+  line-height: normal;
+  padding-left: 60px;
+}
+.Welcome-Awards-head h2 span {
+  color: #0133a3;
+  font-weight: 800 !important;
+}
+.Welcome-Awards-Celebrating {
+  margin: 40px 0px;
+  border: 3px solid #f9cc01;
+  border-right: none;
+  padding: 30px;
+  margin-left: 30px;
+}
+.Welcome-Awards-Celebrating h3 {
+  color: #333;
+  font-family: Raleway;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.Welcome-Awards-Celebrating p {
+  color: #333;
+  padding: 10px 0px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+}
+.Welcome-Awards-Celebrating a {
+  color: #323232;
+  font-family: Poppins;
+  font-size: 24px;
+  text-decoration: none;
+  border-radius: 150px;
+  background: #f9cc01;
+  padding: 10px 15px;
+  margin-top: 20px;
+  display: inline-block;
+}
+.Welcome-Awards-Celebrating-2 p {
+  color: #333;
+  padding: 10px 0px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+}
+.Welcome-Awards-Celebrating-2 a {
+  color: #323232;
+  font-family: Poppins;
+  font-size: 24px;
+  text-decoration: none;
+  border-radius: 150px;
+  border: 1px solid #f9cc01;
+  padding: 10px 15px;
+  display: inline-block;
+  margin-top: 20px;
+  transition: 0.3s ease-in-out;
+}
+.Welcome-Awards-Celebrating-2 a:hover {
+  background: #f9cc01;
+}
+.Welcome-Awards-Celebrating-2 {
+  margin: 40px 0px;
+  border: 3px solid #192aab;
+  border-left: none;
+  padding: 30px;
+  margin-right: 30px;
+}
+.Welcome-Awards-btn {
+  display: flex;
+  justify-content: end;
+}
+.Apply-btn a {
+  color: #0133a3;
+  font-family: Poppins;
+  font-size: 24px;
+  text-decoration: none;
+  border-radius: 150px;
+  border: 1px solid #0133a3;
+  padding: 10px 15px;
+  display: inline-block;
+  transition: 0.3s ease-in-out;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.Apply-btn a:hover {
+  color: #ffffff;
+  background-color: #0133a3;
+}
+
+.row.Speaker {
+  margin-top: 80px;
+}
+.Speaker a {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 24px;
+  text-decoration: none;
+  border-radius: 150px;
+  background: #0133a3;
+  padding: 10px 15px;
+  display: inline-block;
+}
+.line {
+  background: #797979;
+  width: 30%;
+  height: 1px !important;
+  position: relative;
+}
+.line-icon {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.line-icon i {
+  position: absolute;
+  z-index: 1;
+  background-color: white;
+  padding: 0px 5px;
+}
+.awards {
+  background-color: #f7f7f7;
+}
+.col-lg-6.awards-img img {
+  width: 100%;
+  padding: 2rem;
+}
+.col-lg-6.awards-right {
+  background-image: url(../image/right-wrap.png);
+  background-size: cover;
+}
+.awards-right .line {
+  width: 55px;
+  height: 2px !important;
+  background-color: #fff;
+  margin-right: 10px;
+}
+.awards-right-con h3 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
+}
+.awards-right-con p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.awards-right-con {
+  width: 70%;
+  margin: 50px 10px 0px;
+}
+.awards-right-con a {
+  border-radius: 150px;
+  background: #f9cc01;
+  color: #323232;
+  font-family: Poppins;
+  font-size: 16px;
+  text-decoration: none;
+  padding: 8px 25px;
+  font-weight: 400;
+}
+.line-div {
+  display: flex;
+  align-items: center;
+}
+section.awards-sec {
+  margin-top: 70px;
+}
+
+.card1-con {
+  border-radius: 20px;
+  border-top: 5px solid #797979;
+  padding: 0px 25px;
+  width: 90%;
+  margin-top: -80px;
+  position: absolute;
+  width: 23%;
+  margin-left: 42px;
+  background: #fff;
+  box-shadow: 0px 20px 45px 0px rgba(0, 0, 0, 0.05);
+}
+.Upcoming {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.Webinar {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.Webinar a {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16px;
+  border-radius: 150px;
+  background: #0133a3;
+  font-style: normal;
+  font-weight: 400;
+  text-decoration: none;
+  line-height: normal;
+  padding: 5px 15px;
+  margin-right: 10px;
+}
+.Webinar i {
+  color: #f9cc01;
+  font-size: 20px;
+}
+.Webinar p {
+  color: #797979;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  padding: 0px 5px;
+  margin: 0;
+}
+.card1-con h3 {
+  color: #333;
+  font-family: Poppins;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 10px 0px;
+}
+.Upcoming-para p {
+  color: #797979;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding: 5px 0px;
+}
+.Upcoming p {
+  color: #797979;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 0;
+}
+.Upcoming i {
+  color: #797979;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.All-Events-btn a {
+  color: #323232;
+  font-family: Poppins;
+  font-size: 16px;
+  text-decoration: none;
+  border-radius: 3px;
+  border: 1px solid #e8e8e8;
+  background: #fff;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 10px 15px;
+}
+.All-Events-btn {
+  margin-top: 289px !important;
+  display: flex;
+  justify-content: center;
+}
+.Conference {
+  margin-top: 25px;
+}
+ul.nav.nav-tabs {
+  border-radius: 150px;
+  border: 1px solid #0133a3 !important;
+  background: #fff;
+  width: 50%;
+  padding: 5px 5px;
+  margin-left: 10px;
+  display: flex !important;
+  justify-content: space-between !important;
+}
+.Rotary-in-London h2 {
+  color: #333;
+  font-family: Raleway;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.Rotary-in-London {
+  padding-top: 70px;
+  margin-bottom: 70px;
+}
+.Rotary-in-London p {
+  color: #797979;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+}
+.Celebration-sec {
+  background-image: url("../image/Celebration-img.png");
+  background-size: cover;
+}
+.Celebration {
+  text-align: center;
+  padding: 50px 0px;
+}
+.Celebration h2 {
+  color: #333;
+  font-family: Raleway;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+}
+.Celebration p {
+  color: #323232;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+  padding: 20px 0px;
+}
+.Celebration a {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 24px;
+  text-decoration: none;
+  border-radius: 150px;
+  background: #0133a3;
+  padding: 10px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+p.s1Ci3g.h1.mt-4.test-ser {
+  margin-top: 0px !important;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: var(--bs-nav-tabs-link-active-color);
+  /* background-color: var(--bs-nav-tabs-link-active-bg); */
+  /* border-color: var(--bs-nav-tabs-link-active-border-color); */
+  background-color: #0133a3 !important;
+  border-radius: 150px;
+  color: #fff !important;
+}
+.nav-link {
+  color: #000000 !important;
+  font-size: 20px !important;
+}
+.nav {
+  display: flex !important;
+  justify-content: end !important;
+}
+
+.nav-tabs .nav-link:hover {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.nav-tabs {
+  --bs-nav-tabs-border-width: none !important;
+}
+.nav-link:focus,
+.nav-link:hover {
+  color: #000000 !important;
+}
+.Information {
+  display: flex;
+  align-items: center;
+}
+section.tabs-sec {
+  margin-top: 70px;
+  margin-bottom: 70px;
+  background-image: url("../image/tab-bag-img.png");
+}
+.card-logo {
+  display: flex;
+  justify-content: end;
+}
+
+.card-slider {
+  width: 50%;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+  margin-left: 5%px !important;
+}
+.check-icon {
+  border-radius: 20px 0px 40px 0px;
+  background: #f9cc01;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.check-icon i {
+  color: #0133a3;
+  font-size: 28px;
+}
+.card-head p {
+  color: #0133a3 !important;
+  font-family: Poppins !important;
+  font-size: 28px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: normal !important;
+  border-bottom: 2px solid #ececec;
+  padding: 10px 0px !important;
+}
+.card-slider p {
+  color: #323232;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 5px 0px;
+}
+.card-slider img {
+  padding: 5px 0px;
+}
+.slider-section {
+  margin-top: -220px;
+  margin-bottom: 120px;
+}
+.owl-prev span,
+.owl-next span {
+  border-radius: 3px;
+  border: 1px solid #e8e8e8;
+  background: #fff;
+  padding: 8px 15px;
+  font-size: 24px;
+}
+.owl-carousel .owl-item img {
+  width: 35% !important;
+}
+.Speaker img {
+  width: 60%;
+}
+.Community p {
+  color: #333;
+  padding: 10px 0px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+}
+.Upcoming-sec {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.tab-content li {
+  color: #333;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 50px;
+}
+.tab-content p {
+  color: #333;
+  font-family: Poppins;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 45px;
+}
+.circle-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.circle {
+  position: relative;
+  margin: 10px;
+  height: 130px;
+  width: 130px;
+  background-color: #fafafa4f;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 4px dashed;
+  color: #fff;
+  flex-direction: column;
+}
+.circle span {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 700;
+}
+.circle p {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: -10px !important;
+}
+
+@media (max-width: 480px) {
+  .email a,
+  .phone a {
+    font-size: 11px;
+  }
+  .email {
+    width: 50% !important;
+  }
+  .phone {
+    width: 50% !important;
+  }
+  .email img,
+  .phone img {
+    width: 18px;
+  }
+  .social-icon a span i {
+    padding: 5px 5px;
+    margin-right: 5px;
+    font-size: 10px;
+  }
+  .top-awards-img img {
+    width: 70%;
+  }
+  .col-lg-8.social-icon {
+    justify-content: center;
+    width: 50%;
+    margin-left: 9rem;
+    margin-top: 2rem;
+  }
+  .top-awards-img {
+    margin-top: -30px !important;
+    width: 49% !important;
+    position: absolute;
+  }
+  .top-rotary-nav a {
+    font-size: 14px;
+  }
+  .s_YoR6-ser {
+    top: 5px;
+    left: -10px;
+    width: 140px;
+    height: 55px;
+  }
+  .sCjqHl {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  header {
+    margin-bottom: 20px;
+  }
+  .top-rotary-nav {
+    margin-top: 1rem !important;
+  }
+  .circle span {
+    font-size: 18px;
+  }
+  .circle p {
+    font-size: 9px;
+    margin-top: -5px !important;
+  }
+  .hero-sec {
+    padding-top: 1rem;
+  }
+  .hero-heading h1 {
+    font-size: 28px;
+  }
+  .hero-heading h3 {
+    font-size: 28px;
+  }
+  .hero-para p {
+    font-size: 18px;
+    padding: 5px 5px;
+    width: 85%;
+  }
+  .circle {
+    height: 60px;
+    width: 60px;
+  }
+  .card-slider {
+    width: 100%;
+  }
+  .card-head {
+    width: 75% !important;
+  }
+  .owl-carousel .owl-nav button.owl-prev {
+    margin: 0rem !important;
+    margin-right: 140px !important;
+  }
+  .owl-carousel .owl-nav button.owl-next {
+    margin: 0rem !important;
+  }
+  .owl-theme .owl-nav {
+    margin-top: 10px !important;
+  }
+  .check-icon {
+    width: 25% !important;
+  }
+  .col-lg-2.card-logo {
+    width: 20%;
+  }
+  .col-lg-10.card-date {
+    width: 80%;
+  }
+  .owl-carousel .owl-item img {
+    width: 80% !important;
+  }
+  .Welcome-Awards-sec {
+    margin-top: 35px;
+  }
+  .slider-section {
+    margin-bottom: 70px;
+  }
+  .card-slider p {
+    font-size: 16px;
+  }
+  .view-all-slid-bnnr a {
+    font-size: 14px;
+    margin-top: 7px;
+    padding: 10px 15px;
+  }
+  .owl-prev span,
+  .owl-next span {
+    padding: 12px 15px;
+    font-size: 14px;
+  }
+  .card-head p {
+    font-size: 18px !important;
+  }
+  .Welcome-Awards-head h2 {
+    font-size: 28px;
+    padding-left: 30px;
+  }
+  .Welcome-Awards-Celebrating {
+    margin: 10px 0px;
+    padding-left: 15px;
+    padding-top: 20px;
+    margin-left: 5px;
+  }
+  .Welcome-Awards-Celebrating h3 {
+    font-size: 20px;
+  }
+  .Welcome-Awards-Celebrating p {
+    padding: 0px 0px;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: justify;
+  }
+  .Welcome-Awards-Celebrating a {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  .Welcome-Awards-Celebrating-2 {
+    margin: 20px 0px;
+    padding-left: 15px;
+    padding-top: 20px;
+    margin-right: 5px;
+  }
+  .Welcome-Awards-Celebrating-2 p {
+    padding: 0px 0px;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: justify;
+  }
+  .Apply-btn a {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  .Welcome-Awards-Celebrating-2 a {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  .Voluntary-sec {
+    margin-top: 35px;
+  }
+  .Voluntary {
+    padding: 25px 0px;
+  }
+  .Voluntary h2 {
+    font-size: 26px;
+    margin: 0;
+  }
+  .Voluntary p {
+    font-size: 14px;
+    text-align: justify;
+    line-height: 25px;
+    padding: 20px 10px;
+  }
+  .Community-sec {
+    margin-top: 35px;
+  }
+  .Community h2 {
+    font-size: 28px;
+  }
+  .line-icon {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .line {
+    width: 50%;
+  }
+  .Community p {
+    padding: 0px 0px;
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .row.Speaker {
+    margin-top: 40px;
+    text-align: center;
+  }
+  .Speaker img {
+    width: 100%;
+  }
+  .Speaker a {
+    font-size: 12px;
+    padding: 8px 20px;
+    margin: 20px 0px;
+  }
+  .card {
+    box-shadow: 0px 0px 35px 0px rgb(0 0 0 / 10%);
+  }
+  .card h4 {
+    text-align: start;
+    font-size: 18px;
+  }
+  .card h3 {
+    font-size: 24px;
+    text-align: start;
+  }
+  .Community p {
+    margin-bottom: 5px !important;
+    text-align: start;
+  }
+  section.awards-sec {
+    margin-top: 35px;
+  }
+  .col-lg-6.awards-img img {
+    padding: 1rem;
+  }
+  .awards-right-con {
+    width: 100%;
+    margin: 25px 0px;
+  }
+  .awards-right .line {
+    width: 40px;
+    margin-right: 5px;
+  }
+  .awards-right-con p {
+    font-size: 14px;
+  }
+  .awards-right-con h3 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .awards-right-con a {
+    font-size: 12px;
+    margin-top: 15px;
+    display: inline-block;
+  }
+  .awards-right-con p {
+    margin: 0px !important;
+  }
+  section.tabs-sec {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+  .Rotary-in-London {
+    padding-top: 35px;
+    margin-bottom: 35px;
+  }
+  .Rotary-in-London h2 {
+    font-size: 28px;
+  }
+  .Rotary-in-London p {
+    font-size: 14px;
+    line-height: 25px;
+    text-align: justify;
+  }
+  ul.nav.nav-tabs {
+    width: 75%;
+    padding: 3px 3px;
+    margin-left: 5px;
+  }
+  .Information svg {
+    width: 30px;
+  }
+  .nav-link {
+    font-size: 8px !important;
+  }
+  ul.nav.nav-tabs {
+    width: 90%;
+    padding: 3px 3px;
+    margin-left: 5px;
+    justify-content: space-around !important;
+  }
+  .tab-content p {
+    font-size: 22px;
+    line-height: 30px;
+  }
+  .tab-content li {
+    font-size: 14px;
+    line-height: 30px;
+  }
+  .Celebration {
+    padding: 25px 0px;
+  }
+  .Celebration h2 {
+    font-size: 28px;
+  }
+  .Celebration p {
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0px 0px;
+  }
+  .Celebration a {
+    font-size: 18px;
+    padding: 5px 20px;
+    margin-top: 10px;
+  }
+  .Upcoming-sec {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+  .card1-con {
+    padding: 0px 18px;
+    width: 75%;
+    margin-left: 9%;
+  }
+  .card1-con h3 {
+    font-size: 15px;
+    padding: 10px 0px;
+    margin: 0;
+  }
+  .Webinar a {
+    font-size: 11px;
+    padding: 4px 8px;
+    margin-right: 5px;
+  }
+  .Upcoming-para p {
+    font-size: 12px;
+  }
+  .Upcoming p {
+    font-size: 14px;
+  }
+  .col-lg-4.events-card {
+    margin-top: 11.5rem;
+  }
+  .Upcoming i {
+    font-size: 18px;
+  }
+  .Webinar i {
+    font-size: 18px;
+  }
+  .Webinar p {
+    font-size: 12px;
+  }
+  .All-Events-btn {
+    margin-top: 200px !important;
+  }
+  .footer-questions {
+    padding: 0px;
+    width: 100% !important;
+    text-align: center;
+  }
+  .footer-questions h2 {
+    padding-top: 10px;
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  .footer-questions span a {
+    font-size: 18px;
+    padding: 5px 10px;
+    margin-left: 0rem;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  hr {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+  }
+  footer {
+    margin-top: 5rem;
+  }
+  .Conference h2 {
+    font-size: 38px;
+    line-height: 45px;
+  }
+  .footer-About {
+    font-size: 16px;
+    line-height: 25px;
+  }
+}
+@media (max-width: 767px) and (min-width: 481px) {
+  .top-awards-img img {
+    width: 60%;
+  }
+  .Voluntary {
+    padding: 25px 0px;
+}
+  .nav-link {
+    font-size: 12px !important;
+}
+  .top-rotary-nav a {
+    font-size: 16px;
+  }
+  .sCjqHl,
+  .sekuaY {
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .hero-heading h3 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  .s_YoR6-ser {
+    top: 5px;
+    left: -35px;
+    width: 200px;
+    height: 55px;
+  }
+  .top-awards-img {
+    margin-top: 10px !important;
+  }
+  .Rotary-iep-img img {
+    display: none;
+  }
+  .Speaker a {
+    font-size: 18px;
+    padding: 10px 25px;
+    margin-bottom: 10px;
+  }
+  section.awards-sec {
+    margin-top: 50px;
+  }
+  .Community p {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 30px;
+  }
+  .hero-sec {
+    padding-top: 1rem;
+    padding-bottom: 15rem;
+  }
+  .hero-heading h1 {
+    font-size: 38px;
+  }
+  .email {
+    width: 50% !important;
+}
+.email a, .phone a {
+  font-size: 11px;
+}
+.phone {
+  width: 50% !important;
+}
+.top-awards-img {
+  margin-top: -100px !important;
+  width: 49% !important;
+  position: absolute;
+}
+.top-awards-img img {
+  width: 70%;
+}
+.top-rotary-nav {
+  margin-top: 3rem !important;
+}
+.top-rotary-nav a {
+  font-size: 14px;
+}
+.col-lg-8.social-icon {
+  justify-content: center;
+  width: 50%;
+  margin-left: 12rem;
+  margin-top: 1rem;
+}
+  .hero-para p {
+    font-size: 16px;
+    width: 85%;
+  }
+  .card-slider {
+    width: 80%;
+  }
+  .check-icon {
+    width: 25% !important;
+  }
+  .card-head {
+    width: 75% !important;
+  }
+  .col-lg-2.card-logo {
+    width: 20%;
+  }
+  .owl-carousel .owl-item img {
+    width: 50% !important;
+  }
+  .col-lg-10.card-date {
+    width: 80%;
+  }
+  .card-slider p {
+    font-size: 18px !important;
+  }
+  .circle {
+    height: 100px;
+    width: 100px;
+  }
+  .slider-section {
+    margin-bottom: 70px;
+  }
+  .Community-sec {
+    margin-top: 25px;
+  }
+  .line-icon {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .row.Speaker {
+    margin-top: 0px;
+  }
+  .awards-right-con a {
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  .col-lg-6.awards-img img {
+    padding: 1rem;
+  }
+  .awards-right-con {
+    width: 90%;
+    margin: 20px 10px 0px;
+  }
+  .Rotary-in-London {
+    padding-top: 0px;
+    margin-bottom: 50px;
+  }
+  section.tabs-sec {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-size: cover;
+  }
+  ul.nav.nav-tabs {
+    width: 70%;
+  }
+  .tab-content li {
+    font-size: 18px;
+    line-height: 35px;
+  }
+  .Celebration {
+    text-align: center;
+    padding: 30px 0px;
+  }
+  .Upcoming-sec {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .card1-con {
+    width: 75%;
+    margin-left: 10%;
+  }
+  .Upcoming-para p {
+    padding: 10px 0px;
+  }
+  .col-lg-4.events-card {
+    margin-top: 17rem;
+  }
+  .All-Events-btn {
+    margin-top: 300px !important;
+  }
+  .footer-questions {
+    width: 100% !important;
+  }
+  .footer-questions span a {
+    margin-left: 0rem;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.footer-questions {
+  text-align: center;
+  width: 100% !important;
+  padding: 0px;
+}
+.Welcome-Awards-Celebrating-2 a {
+  font-size: 18px;
+}
+.Welcome-Awards-Celebrating a {
+  font-size: 18px;
+}
+.Welcome-Awards-head h2 {
+  font-size: 34px;
+  padding-left: 30px;
+}
+.Apply-btn a {
+  font-size: 18px;
+}
+  footer {
+    margin-top: 9rem;
+  }
+  .Conference h2 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .Conference {
+    margin-top: 50px;
+}
+  hr {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+  }
+  .footer-About {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .Welcome-Awards-head h2 {
+    font-size: 30px;
+  }
+  .Welcome-Awards-Celebrating {
+    margin: 20px 0px;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .sCjqHl, .sekuaY {
+    font-size: 18px;
+}
+.s_YoR6-ser {
+  top: -15px;
+  left: -8px;
+  width: 155px;
+  height: 60px;
+}
+.top-awards-img img {
+  width: 100%;
+}
+  .hero-heading h1 {
+    font-size: 60px;
+}
+.hero-heading h3 {
+  font-size: 44px;
+  padding-bottom: 20px;
+}
+  .hero-para p {
+    font-size: 22px;
+    width: 75%;
+}
+.card-slider {
+  width: 80%;
+}
+.check-icon {
+  width: 25% !important;
+}
+.card-head {
+  width: 75% !important;
+}
+.col-lg-2.card-logo {
+  width: 20%;
+}
+.owl-carousel .owl-item img {
+  width: 30% !important;
+}
+.col-lg-10.card-date {
+  width: 80%;
+}
+.slider-section {
+  margin-bottom: 70px;
+}
+.Welcome-Awards-Celebrating {
+  margin: 20px 0px;
+}
+.Welcome-Awards-Celebrating a {
+  font-size: 18px;
+}
+.Welcome-Awards-Celebrating-2 a {
+  font-size: 18px;
+}
+.Apply-btn a {
+  font-size: 18px;
+}
+.row.Speaker {
+  margin-top: 40px;
+}
+.Community p {
+  font-size: 14px;
+  line-height: 30px;
+}
+.Speaker a {
+  font-size: 18px;
+}
+.Rotary-iep-img img{
+  display: none;
+}
+.awards-right-con {
+  width: 90%;
+  margin: 30px 10px 0px;
+}
+.awards-right-con a {
+  display: inline-block;
+  margin-bottom: 30px;
+}
+.Rotary-in-London {
+  padding-top: 35px;
+  margin-bottom: 35px;
+}
+ul.nav.nav-tabs {
+  width: 70%;
+}
+.card1-con {
+  width: 70%;
+  margin-left: 10%;
+}
+.col-lg-4.events-card {
+  margin-top: 10rem;
+}
+.All-Events-btn {
+  margin-top: 200px !important;
+}
+.footer-questions {
+  padding: 40px;
+}
+.Conference h2 {
+  font-size: 40px;
+}
+.footer-About {
+  font-size: 11px;
+}
+
+}
+@media (max-width: 1200px) and (min-width: 992px) {
+  .hero-heading h3 {
+    font-size: 54px;
+  }
+  .hero-sec {
+    padding-top: 1rem;
+  }
+  .col-lg-4.col-md-3.top-awards-img {
+    width: 20%;
+}
+  .col-lg-4.col-md-6.top-rotary-nav {
+    width: 42%;
+  }
+  .top-awards-img img {
+    width: 75%;
+}
+  .hero-para p {
+    width: 70%;
+  }
+  .hero-para p {
+    font-size: 24px;
+  }
+  .card-slider {
+    width: 80%;
+  }
+  .Rotary-iep-img img {
+    margin: 0px !important;
+  }
+  .Speaker a {
+    font-size: 20px;
+    padding: 8px 20px;
+    margin-top: 10px;
+  }
+  .awards-right-con a {
+    display: inline-block;
+    margin-bottom: 30px;
+  }
+  .awards-right-con {
+    width: 90%;
+  }
+  .tab-content li {
+    line-height: 40px;
+  }
+  .card1-con {
+    margin-left: 3%;
+    padding: 0px 15px;
+  }
+  .card1-con h3 {
+    font-size: 14px;
+  }
+  .Upcoming-para p {
+    font-size: 14px;
+  }
+  .Webinar a {
+    font-size: 10px;
+    padding: 5px 15px;
+    margin-right: 5px;
+  }
+  .Webinar p {
+    font-size: 18px;
+  }
+  .Webinar i {
+    font-size: 18px;
+  }
+  .footer-questions {
+    padding: 80px;
+    width: 93% !important;
+  }
+  .footer-questions h2 {
+    font-size: 32px;
+  }
+  .footer-questions span a {
+    padding: 5px 15px;
+    margin-left: 10rem;
+  }
+  footer {
+    padding-top: 9rem;
+    margin-top: 12rem;
+  }
+}
+@media (max-width: 1400px) and (min-width: 1201px) {
+  footer {
+    padding-top: 9rem;
+    margin-top: 18rem;
+}
+} 
